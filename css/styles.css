@@ -1,0 +1,26 @@
+.jumbotron{
+    font-family: "calibri";
+    font-style: "bold";
+    text-align: center;
+    height: 10%
+    background-color: #d8b066;
+
+}
+
+.inner-left {
+  padding: 10px;
+  margin-right: 10px border: #999999 1px solid;
+  min-height: 60px;
+  background-color: green;
+}
+
+
+.body{
+    background-color: grey;
+}
+
+.float-left-area {
+  width: 30%;
+  float: left;
+  padding-bottom: 1000px;
+}
