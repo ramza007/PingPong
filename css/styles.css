@@ -10,12 +10,6 @@ body {
 }
 
 
-.float-left-area {
-  width: 30%;
-  float: left;
-  padding-bottom: 1000px;
-}
-
 .sidebar{
     float: left;
     background-color: green;
