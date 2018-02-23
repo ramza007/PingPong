@@ -3,13 +3,10 @@ body {
 }
 
 
-.jumbotron{
-    font-family: "calibri";
-    font-style: "bold";
-    text-align: center;
-    height: 10%
-    background-color: #d8b066;
-
+.jumbotron {
+  text-align: center;
+  height: 10%;
+  background-color: #FFD7A2;
 }
 
 
@@ -27,3 +24,10 @@ body {
     padding-bottom: 800px;
     margin-left:-120px;
 }
+
+.float-right-area {
+  width: 70%;
+  float: left;
+  padding: 10px;
+}
+
