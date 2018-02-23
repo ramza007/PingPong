@@ -1,3 +1,8 @@
+body {
+  background-color: #DAD9D7;
+}
+
+
 .jumbotron{
     font-family: "calibri";
     font-style: "bold";
@@ -7,20 +12,18 @@
 
 }
 
-.inner-left {
-  padding: 10px;
-  margin-right: 10px border: #999999 1px solid;
-  min-height: 60px;
-  background-color: green;
-}
-
-
-.body{
-    background-color: grey;
-}
 
 .float-left-area {
   width: 30%;
   float: left;
   padding-bottom: 1000px;
+}
+
+.sidebar{
+    float: left;
+    background-color: green;
+    margin-top: 40px;
+    padding-right: 100px;
+    padding-bottom: 800px;
+    margin-left:-120px;
 }
