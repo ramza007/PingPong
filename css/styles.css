@@ -26,11 +26,12 @@ body{
   width: 30%;
   float: left;
   padding: 10px;
+  opacity: 0.9;
 }
 
 .inner-left {
   padding: 10px;
-  margin-right: 10px border #999999 1px solid;
+  margin-right: 15px border #999999 1px solid;
   min-height: 60px;
   background-color: green;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -40,6 +41,7 @@ body{
   width: 70%;
   float: left;
   padding: 10px;
+  opacity: 0.9;
 }
 
 .inner-right {
