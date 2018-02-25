@@ -9,7 +9,7 @@ A web application that takes a number from a user and returns a range of numbers
 * Numbers divisible by 15 are replaced with "pingpong"
 
 ---
-##### This is a [Link](https://github.com/ramza007/PingPong) to my live site on Git Hub where a repository of my work is.
+##### This is a [Link](https://github.com/ramza007/PingPong) to my live site on GitHub where a repository of my work is.
 
 ---
 
@@ -30,6 +30,6 @@ A web application that takes a number from a user and returns a range of numbers
 Feel free to explore my other repositories!
 
 ---
-*Copyright and Licence are under [**MIT**](https://github.com/ramza007/Anita-Kitchen/blob/master/LICENSE)*
+*Copyright and Licence are under [**MIT**]
  
  ©RAMZA | 2018 
