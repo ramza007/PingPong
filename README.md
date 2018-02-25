@@ -30,6 +30,6 @@ A web application that takes a number from a user and returns a range of numbers
 Feel free to explore my other repositories!
 
 ---
-*Copyright and Licence are under [**MIT**]
+*Copyright and Licence are under [**MIT**]()
  
  ©RAMZA | 2018 
