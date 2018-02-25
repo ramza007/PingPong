@@ -1,5 +1,12 @@
-body {
-  background-color: #DAD9D7;
+body{
+  padding: 0;
+  height: 850px;
+  width:100%;
+  background-image:url("../images/pingpong.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /*header*/
@@ -8,6 +15,7 @@ body {
   text-align: center;
   height: 10%;
   background-color: #FFD7A2;
+  opacity: 0.8;
 }
 
 /*header*/
@@ -40,6 +48,7 @@ body {
   border: #999999 1px solid;
   min-height: 60px;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: whitesmoke
 }
 
 .clear-floated {
